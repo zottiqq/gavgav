@@ -1,0 +1,7 @@
+print("Введите 2 числа")
+one = int(input())
+two = int(input())
+y = (one * two)
+d = (one // two)
+print( "Умножение:", y )
+print( "Деление:", d ) 
